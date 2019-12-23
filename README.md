@@ -6,18 +6,24 @@ This Repo contains scripts (Mostly Powershell)
 
 ## Scripts
 
-### ModifyManager_FIRST_LASTNAME.PS1
+### UserScripts
+
+#### USER_ModifyManager_FIRST_LASTNAME.PS1
 
 Simple script to modify the manager in an ActiveRoles Workflow Based on the
 First and Last Name. (The first and last name of the manager is written in an
 attribute) (Extensionattribute12)
 
-### ModifyManager_EMPLOYEEID.PS1
+#### USER_ModifyManager_EMPLOYEEID.PS1
 
 Simple script to modify the manager in an ActiveRoles Workflow based on the
 EmployeeID . (The employee ID from the mananager is written in an attribute and
 the Attribute EmployeeID is filled)
 (Extensionattribute12)
+
+### Groups
+
+### Other
 
 ## Disclaimer
 
