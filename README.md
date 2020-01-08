@@ -21,6 +21,11 @@ EmployeeID . (The employee ID from the mananager is written in an attribute and
 the Attribute EmployeeID is filled)
 (Extensionattribute12)
 
+### USER_ModifySPO.ps1
+
+A simple script to use in Active Roles One Identity to change Sharepoint Online
+properties
+
 ### Groups
 
 ### Other
